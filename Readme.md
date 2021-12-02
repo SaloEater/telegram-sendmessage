@@ -3,7 +3,7 @@ A simple and lightweight container to send Telegram messages.
 
 ## Environment variables
 
-#### BOT_TOKEN
+#### TOKEN
 The token of your bot.
 
 #### GROUPS
