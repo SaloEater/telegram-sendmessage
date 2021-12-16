@@ -15,5 +15,5 @@ Message to send
 # STARTUP
 
 ```
-docker run -d --name telegramsendmessage -e BOT_TOKEN='' -e GROUP_IDS='1,2,3' -e MESSAGE='' saloeater/telegramsendmessage
+docker run -d --name telegramsendmessage -e TOKEN='' -e GROUP_IDS='1,2,3' -e MESSAGE='' saloeater/telegramsendmessage
 ```
